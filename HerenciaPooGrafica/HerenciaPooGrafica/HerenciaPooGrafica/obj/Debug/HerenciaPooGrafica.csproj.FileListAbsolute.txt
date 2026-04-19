@@ -1,0 +1,11 @@
+C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\bin\Debug\HerenciaPooGrafica.exe.config
+C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\bin\Debug\HerenciaPooGrafica.exe
+C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\bin\Debug\HerenciaPooGrafica.pdb
+C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.csproj.AssemblyReference.cache
+C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.Form1.resources
+C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.Properties.Resources.resources
+C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.csproj.GenerateResource.cache
+C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.csproj.CoreCompileInputs.cache
+C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.exe
+C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.pdb
+C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.exe.config

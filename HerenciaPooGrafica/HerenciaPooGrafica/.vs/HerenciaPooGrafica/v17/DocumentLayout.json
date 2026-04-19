@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E74641-1D87-484A-8461-8E2D429E1C11}|HerenciaPooGrafica\\HerenciaPooGrafica.csproj|c:\\users\\joseb\\downloads\\herenciapoografica\\herenciapoografica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E74641-1D87-484A-8461-8E2D429E1C11}|HerenciaPooGrafica\\HerenciaPooGrafica.csproj|solutionrelative:herenciapoografica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E74641-1D87-484A-8461-8E2D429E1C11}|HerenciaPooGrafica\\HerenciaPooGrafica.csproj|c:\\users\\joseb\\downloads\\herenciapoografica\\herenciapoografica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01E74641-1D87-484A-8461-8E2D429E1C11}|HerenciaPooGrafica\\HerenciaPooGrafica.csproj|solutionrelative:herenciapoografica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E74641-1D87-484A-8461-8E2D429E1C11}|HerenciaPooGrafica\\HerenciaPooGrafica.csproj|c:\\users\\joseb\\downloads\\herenciapoografica\\herenciapoografica\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E74641-1D87-484A-8461-8E2D429E1C11}|HerenciaPooGrafica\\HerenciaPooGrafica.csproj|solutionrelative:herenciapoografica\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E74641-1D87-484A-8461-8E2D429E1C11}|HerenciaPooGrafica\\HerenciaPooGrafica.csproj|c:\\users\\joseb\\downloads\\herenciapoografica\\herenciapoografica\\triangulorectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E74641-1D87-484A-8461-8E2D429E1C11}|HerenciaPooGrafica\\HerenciaPooGrafica.csproj|solutionrelative:herenciapoografica\\triangulorectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E74641-1D87-484A-8461-8E2D429E1C11}|HerenciaPooGrafica\\HerenciaPooGrafica.csproj|c:\\users\\joseb\\downloads\\herenciapoografica\\herenciapoografica\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E74641-1D87-484A-8461-8E2D429E1C11}|HerenciaPooGrafica\\HerenciaPooGrafica.csproj|solutionrelative:herenciapoografica\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E74641-1D87-484A-8461-8E2D429E1C11}|HerenciaPooGrafica\\HerenciaPooGrafica.csproj|c:\\users\\joseb\\downloads\\herenciapoografica\\herenciapoografica\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E74641-1D87-484A-8461-8E2D429E1C11}|HerenciaPooGrafica\\HerenciaPooGrafica.csproj|solutionrelative:herenciapoografica\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\HerenciaPooGrafica\\Form1.cs",
+              "RelativeDocumentMoniker": "HerenciaPooGrafica\\Form1.cs",
+              "ToolTip": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\HerenciaPooGrafica\\Form1.cs",
+              "RelativeToolTip": "HerenciaPooGrafica\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:50:11.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "trianguloRectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\HerenciaPooGrafica\\trianguloRectangulo.cs",
+              "RelativeDocumentMoniker": "HerenciaPooGrafica\\trianguloRectangulo.cs",
+              "ToolTip": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\HerenciaPooGrafica\\trianguloRectangulo.cs",
+              "RelativeToolTip": "HerenciaPooGrafica\\trianguloRectangulo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:48:46.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\HerenciaPooGrafica\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "HerenciaPooGrafica\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\HerenciaPooGrafica\\Rectangulo.cs",
+              "RelativeToolTip": "HerenciaPooGrafica\\Rectangulo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:48:19.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\HerenciaPooGrafica\\Circulo.cs",
+              "RelativeDocumentMoniker": "HerenciaPooGrafica\\Circulo.cs",
+              "ToolTip": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\HerenciaPooGrafica\\Circulo.cs",
+              "RelativeToolTip": "HerenciaPooGrafica\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:47:59.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\HerenciaPooGrafica\\Figura.cs",
+              "RelativeDocumentMoniker": "HerenciaPooGrafica\\Figura.cs",
+              "ToolTip": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\HerenciaPooGrafica\\Figura.cs",
+              "RelativeToolTip": "HerenciaPooGrafica\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:47:37.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\HerenciaPooGrafica\\Form1.cs",
+              "RelativeDocumentMoniker": "HerenciaPooGrafica\\Form1.cs",
+              "ToolTip": "C:\\Users\\joseb\\Downloads\\HerenciaPooGrafica\\HerenciaPooGrafica\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HerenciaPooGrafica\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:46:37.569Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

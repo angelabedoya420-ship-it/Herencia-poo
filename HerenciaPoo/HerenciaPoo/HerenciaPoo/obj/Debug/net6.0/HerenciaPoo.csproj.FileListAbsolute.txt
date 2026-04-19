@@ -1,0 +1,14 @@
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\bin\Debug\net6.0\HerenciaPoo.exe
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\bin\Debug\net6.0\HerenciaPoo.deps.json
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\bin\Debug\net6.0\HerenciaPoo.runtimeconfig.json
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\bin\Debug\net6.0\HerenciaPoo.dll
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\bin\Debug\net6.0\HerenciaPoo.pdb
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\obj\Debug\net6.0\HerenciaPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\obj\Debug\net6.0\HerenciaPoo.AssemblyInfoInputs.cache
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\obj\Debug\net6.0\HerenciaPoo.AssemblyInfo.cs
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\obj\Debug\net6.0\HerenciaPoo.csproj.CoreCompileInputs.cache
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\obj\Debug\net6.0\HerenciaPoo.dll
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\obj\Debug\net6.0\refint\HerenciaPoo.dll
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\obj\Debug\net6.0\HerenciaPoo.pdb
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\obj\Debug\net6.0\HerenciaPoo.genruntimeconfig.cache
+C:\Users\joseb\Downloads\HerenciaPoo\HerenciaPoo\obj\Debug\net6.0\ref\HerenciaPoo.dll
