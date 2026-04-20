@@ -9,3 +9,13 @@ C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\Herenci
 C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.exe
 C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.pdb
 C:\Users\joseb\Downloads\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.exe.config
+C:\Users\win11\Documents\codigos github\Herencia-poo\HerenciaPooGrafica\HerenciaPooGrafica\HerenciaPooGrafica\bin\Debug\HerenciaPooGrafica.exe.config
+C:\Users\win11\Documents\codigos github\Herencia-poo\HerenciaPooGrafica\HerenciaPooGrafica\HerenciaPooGrafica\bin\Debug\HerenciaPooGrafica.exe
+C:\Users\win11\Documents\codigos github\Herencia-poo\HerenciaPooGrafica\HerenciaPooGrafica\HerenciaPooGrafica\bin\Debug\HerenciaPooGrafica.pdb
+C:\Users\win11\Documents\codigos github\Herencia-poo\HerenciaPooGrafica\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.csproj.AssemblyReference.cache
+C:\Users\win11\Documents\codigos github\Herencia-poo\HerenciaPooGrafica\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.Form1.resources
+C:\Users\win11\Documents\codigos github\Herencia-poo\HerenciaPooGrafica\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.Properties.Resources.resources
+C:\Users\win11\Documents\codigos github\Herencia-poo\HerenciaPooGrafica\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.csproj.GenerateResource.cache
+C:\Users\win11\Documents\codigos github\Herencia-poo\HerenciaPooGrafica\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.csproj.CoreCompileInputs.cache
+C:\Users\win11\Documents\codigos github\Herencia-poo\HerenciaPooGrafica\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.exe
+C:\Users\win11\Documents\codigos github\Herencia-poo\HerenciaPooGrafica\HerenciaPooGrafica\HerenciaPooGrafica\obj\Debug\HerenciaPooGrafica.pdb

@@ -10,15 +10,20 @@ using System.Windows.Forms;
 
 namespace HerenciaPooGrafica
 {
+    /*En el menu prncipal se le permite al usuario seleccionar la figura que desea dibujar, 
+     ingresar las dimensiones necesarias para cada figura, y luego se muestra el área, el perímetro y se dibuja la figura.*/
     public partial class Form1 : Form
     {
-        public Form1()
+        public Form1() 
         {
             InitializeComponent();
         }
 
         private void boton_dibujar_click(object sender, EventArgs e)
         {
+            /* Dependiendo de la figura seleccionada por el usuario, 
+             se crean instancias de las clases correspondientes (Circulo, TrianguloRectangulo, Rectangulo),*/  
+
             Figura figura = null;
             bool imprimirrespuesta = false;
             double radio1 = 0;
@@ -48,7 +53,8 @@ namespace HerenciaPooGrafica
                 posY = int.Parse(posicionY.Text);
             }
 
-            switch (selectorFigura.SelectedIndex + 1)
+            switch (selectorFigura.SelectedIndex + 1) //Se uzsa el switch para determinar que figura se selecciono y crear la instancia de la clase correspondiente.*/  
+
             {
                 case 1:
                     Circulo circulo = new Circulo();
@@ -75,8 +81,10 @@ namespace HerenciaPooGrafica
                     imprimirrespuesta = false;
                     break;
             }
+            /*Una vez creada la instancia de la figura, se calculan el área y el perímetro utilizando los métodos correspondientes,
+            y se muestra la información al usuario. Además, se dibuja la figura en el panely seleccionando el boton Dibujar */
 
-            if (imprimirrespuesta == true)
+            if (imprimirrespuesta == true) 
             {
                 areaTotal.Text = $"{figura.calcularArea()}";
                 perimetro.Text = $"{figura.calcularPerimetro()}";
@@ -84,6 +92,26 @@ namespace HerenciaPooGrafica
                 figura.posicionY = posY;
                 figura.Dibujar(this.CreateGraphics());
             }
+        }
+
+        private void label_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void areaTotal_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void perimetro_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

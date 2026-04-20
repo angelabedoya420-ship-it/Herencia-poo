@@ -119,43 +119,47 @@
             // label
             // 
             this.label.AutoSize = true;
-            this.label.Location = new System.Drawing.Point(633, 46);
+            this.label.Location = new System.Drawing.Point(683, 52);
             this.label.Name = "label";
             this.label.Size = new System.Drawing.Size(59, 13);
             this.label.TabIndex = 8;
             this.label.Text = "Area Total:";
+            this.label.Click += new System.EventHandler(this.label_Click);
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(633, 70);
+            this.label5.Location = new System.Drawing.Point(683, 76);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(81, 13);
             this.label5.TabIndex = 9;
             this.label5.Text = "Perimetro Total:";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // areaTotal
             // 
             this.areaTotal.AutoSize = true;
-            this.areaTotal.Location = new System.Drawing.Point(722, 46);
+            this.areaTotal.Location = new System.Drawing.Point(772, 52);
             this.areaTotal.Name = "areaTotal";
             this.areaTotal.Size = new System.Drawing.Size(13, 13);
             this.areaTotal.TabIndex = 10;
             this.areaTotal.Text = "0";
+            this.areaTotal.Click += new System.EventHandler(this.areaTotal_Click);
             // 
             // perimetro
             // 
             this.perimetro.AutoSize = true;
-            this.perimetro.Location = new System.Drawing.Point(722, 70);
+            this.perimetro.Location = new System.Drawing.Point(772, 76);
             this.perimetro.Name = "perimetro";
             this.perimetro.Size = new System.Drawing.Size(13, 13);
             this.perimetro.TabIndex = 11;
             this.perimetro.Text = "0";
+            this.perimetro.Click += new System.EventHandler(this.perimetro_Click);
             // 
             // botonDibujar
             // 
             this.botonDibujar.BackColor = System.Drawing.SystemColors.MenuBar;
-            this.botonDibujar.Location = new System.Drawing.Point(418, 46);
+            this.botonDibujar.Location = new System.Drawing.Point(466, 37);
             this.botonDibujar.Name = "botonDibujar";
             this.botonDibujar.Size = new System.Drawing.Size(123, 37);
             this.botonDibujar.TabIndex = 12;
@@ -176,7 +180,7 @@
             // 
             this.posicionY.Location = new System.Drawing.Point(12, 89);
             this.posicionY.Name = "posicionY";
-            this.posicionY.Size = new System.Drawing.Size(100, 20);
+            this.posicionY.Size = new System.Drawing.Size(106, 20);
             this.posicionY.TabIndex = 15;
             // 
             // lblposicionX
@@ -192,7 +196,7 @@
             // 
             this.posicionX.Location = new System.Drawing.Point(12, 43);
             this.posicionX.Name = "posicionX";
-            this.posicionX.Size = new System.Drawing.Size(100, 20);
+            this.posicionX.Size = new System.Drawing.Size(106, 20);
             this.posicionX.TabIndex = 13;
             // 
             // Form1
